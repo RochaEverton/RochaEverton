@@ -1,3 +1,5 @@
+<img src="URL_da_Imagem" alt="My Octocat">
+
 - 👋 Hi, I’m @RochaEverton
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Computer Networking 
