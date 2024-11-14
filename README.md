@@ -9,3 +9,6 @@
   </tr>
  
 </table>
+
+# Skills
+JS | HTML5 | CSS3 | AWS | CISCO | CyberOps | Git/Github
