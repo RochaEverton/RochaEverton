@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @RochaEverton
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Computer Networking 
-- 💞️ I try to collaborate in everything I can.
-- 📫 How to reach me rochaevertondev@gmail.com
-
-<!---
-RochaEverton/RochaEverton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<img src="my octocat.png" alt="My Octocat">
+<table>
+  <tr>
+    <td><img src="octocat-1731604038272.png" width="320" height="205" alt="My Octocat"></td>
+    <td> - 👋 Hi, I’m @RochaEverton. </br>
+    - 👀 I’m interested in Technology. </br>
+    - 🌱 I’m currently learning Computer Networking. </br>
+    - 💞️ I try to collaborate in everything I can. </br>
+    - 📫 How to reach me <a href=“rochaevertondev@gmail.com“>rochaevertondev@gmail.com</a> </td> 
+  </tr>
+ 
+</table>
