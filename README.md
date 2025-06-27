@@ -10,7 +10,22 @@
  
 </table>
 
-# Skills
-JS | HTML5 | CSS3 | AWS | CISCO | CyberOps | Git/Github
+### FrontEnd
+![Static Badge](https://img.shields.io/badge/HTML-red)
+![Static Badge](https://img.shields.io/badge/CSS-blue)
+![Static Badge](https://img.shields.io/badge/Javascript-yellow)
+![Static Badge](https://img.shields.io/badge/React-%234c74ee)
 
-![RochaEverton's GitHub stats](https://github-readme-stats.vercel.app/api?username=RochaEverton&show_icons=true&theme=radical)
+
+### BackEnd
+![Static Badge](https://img.shields.io/badge/Node-green)
+![Static Badge](https://img.shields.io/badge/Express-yellow)
+![Static Badge](https://img.shields.io/badge/Mongo-grey)
+![Static Badge](https://img.shields.io/badge/MySQL-%23375bc5)
+
+### DevSecOps
+![Static Badge](https://img.shields.io/badge/GIT-%23cf5334)
+![Static Badge](https://img.shields.io/badge/Github-%23161313)
+![Static Badge](https://img.shields.io/badge/Docker-%233159c5)
+![Static Badge](https://img.shields.io/badge/AWS-%23e09035)
+![Static Badge](https://img.shields.io/badge/Terraform-%238a2be2)
