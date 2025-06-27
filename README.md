@@ -22,6 +22,8 @@
 ![Static Badge](https://img.shields.io/badge/Express-yellow)
 ![Static Badge](https://img.shields.io/badge/Mongo-grey)
 ![Static Badge](https://img.shields.io/badge/MySQL-%23375bc5)
+![Static Badge](https://img.shields.io/badge/Solidity-1a1616)
+
 
 ### DevSecOps
 ![Static Badge](https://img.shields.io/badge/GIT-%23cf5334)
