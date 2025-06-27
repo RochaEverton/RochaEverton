@@ -12,3 +12,5 @@
 
 # Skills
 JS | HTML5 | CSS3 | AWS | CISCO | CyberOps | Git/Github
+
+![RochaEverton's GitHub stats](https://github-readme-stats.vercel.app/api?username=RochaEverton&show_icons=true&theme=radical)
