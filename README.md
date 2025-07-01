@@ -1,7 +1,8 @@
+<div align = "center">
 <table>
   <tr>
     <td><img src="linkedin.png" width="246" height="187" alt="profile linkedin"></td>
-    <td> 
+    <td > 
       - 👋 Olá, Meu nome é Everton Rocha. </br>
       - Sou um Desenvolvedor Full Stack apaixonado por técnologia.</br>
       - Atualmente trabalho no <a class="badge-base__link LI-simple-link" href="https://www.lab-yes.com/">Lab Yes!</a>. </br>
@@ -13,13 +14,13 @@
 </table>
 <table>
   <thead>
-    <td>
+    <td align = "center">
       <b>FrontEnd </b>
     </td>
-    <td>
-      <b>BackEnd </b>
+    <td align = "center">
+      <b >BackEnd </b>
     </td>
-    <td>
+    <td align = "center">
       <b>DevSecOps </b>
     </td>
   </thead>
@@ -50,3 +51,4 @@
     </td>
   </tr>
 </table>
+</div>
