@@ -1,7 +1,6 @@
 <div align = "center">
 <table>
   <tr>
-    <td><img src="linkedin.png" width="246" height="187" alt="profile linkedin"></td>
     <td > 
       - 👋 Olá, Meu nome é Everton Rocha. </br>
       - Sou um Desenvolvedor Full Stack apaixonado por técnologia.</br>
