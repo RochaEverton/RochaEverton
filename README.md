@@ -3,7 +3,7 @@
   <tr>
     <td > 
       - 👋 Olá, Meu nome é Everton Rocha. </br>
-      - Sou um Desenvolvedor Frontend apaixonado por técnologia.</br>
+      - Sou um Desenvolvedor Frontend apaixonado por tecnologia.</br>
       - Atualmente trabalho no <a class="badge-base__link LI-simple-link" href="https://www.lab-yes.com/">Lab Yes!</a>. </br>
       - 📫 Como me encontrar: </br>
       - Linkedin: <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rochaevertondevbr?trk=profile-badge">rochaevertondev.br</a> </br>
