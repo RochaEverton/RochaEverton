@@ -1,17 +1,27 @@
-<h1>Hello, My name is Everton Rocha a Web3 developer passionate about technology and innovation.</h1>
-<article>- I believe in the power of shared learning, where we can work, learn, and grow together.</br>
-- I'm seeking new challenges that allow me to contribute and evolve in the field of blockchain and decentralized development.</br>
-- I've a postgraduate degree in Fullstack Development and an MBA in Web3 and I'm currently studying Systems Analysis and Development.</br> 
-- I'm currently a volunteer at <a class="badge-base__link LI-simple-link" href="https://www.lab-yes.com/">Lab Yes!</a> a program geared toward aspiring developers seeking personal and professional growth. The program provides the opportunity to develop both hard and soft skills, creating a comprehensive and collaborative learning environment. </br></br> 
-- 📫 how to find me: </br>
-- Linkedin: <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rochaevertondevbr?trk=profile-badge">rochaevertondev.br</a> </br>
-- Github: <a class="badge-base__link LI-simple-link" href="https://github.com/RochaEverton">RochaEverton</a> </br> 
-- Email: <a href=“rochaevertondev@gmail.com“>rochaevertondev@gmail.com</a></article>
+<h1>Everton Rocha</h1> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rochaevertondevbr)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/elrochadev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rochaevertondev@gmail.com)
+
+Web3 developer passionate about technology and innovation, driven by the belief in shared learning where we can work, grow, and evolve together.<br>
+
+Currently seeking new challenges that allow me to contribute and advance in the field of blockchain and decentralized development.  
+
+Holding a postgraduate degree in Fullstack Development and an MBA in Web3, while also pursuing a degree in Systems Analysis and Development.  
+
+Volunteer at [Lab Yes!](https://www.lab-yes.com/), a program for aspiring developers that promotes personal and professional growth by fostering both hard and soft skills in a collaborative learning environment.
+
 
 <h1>Projects</h1>
 
-1. O **<a class="badge-base__link LI-simple-link" href="https://github.com/RochaEverton/linkprotect">LinkProtect</a>** é uma aplicação descentralizada (dApp) construída com **Next.js** no front-end e integrada a um **smart contract** na Binance Smart Chain Testnet. Seu objetivo é permitir a criação de links protegidos por pagamento on-chain. Somente após o pagamento o usuário pode acessar o conteúdo do link.
+1. **<a class="badge-base__link LI-simple-link" href="https://linkprotect-lime.vercel.app/">LinkProtect</a>** project is a decentralized application (dApp) built with Next.js on the front end and integrated with a smart contract on the Binance Smart Chain Testnet. Its goal is to enable the creation of links protected by on-chain payments. Only after completing the payment can the user access the link’s content.
 
-2. O **<a class="badge-base__link LI-simple-link" href="https://github.com/RochaEverton/votachain">VotaChain</a>** é um projeto que simula a utilização da tecnologia blockchain para criação de um sistema de votação digital transparente e seguro. O projeto permite que usuários votem de qualquer lugar usando carteiras digitais.
+2. **<a class="badge-base__link LI-simple-link" href="https://github.com/RochaEverton/votachain">VotaChain</a>** is a project that simulates the use of blockchain technology to create a transparent and secure digital voting system. The project allows users to vote from anywhere using digital wallets.
 
-3. A **<a class="badge-base__link LI-simple-link" href="https://github.com/RochaEverton/calculadora.js">Calculadora.js</a>** é um projeto pessoal com o objetivo de praticar conceitos de JavaScript, manipulação do DOM e lógica de programação. A calculadora realiza operações matemáticas básicas de forma responsiva e interativa.
+3. **<a class="badge-base__link LI-simple-link" href="https://github.com/RochaEverton/NFT_SepoliaTestNet">NFT_SepoliaTestNet</a>** This repository demonstrates the creation, deployment, and minting of an **ERC-721 NFT** on the **Sepolia testnet**
+
+4. **<a class="badge-base__link LI-simple-link" href="https://github.com/RochaEverton/calculadora.js">Calculadora.js</a>** is a personal project aimed at practicing JavaScript concepts, DOM manipulation, and programming logic. The calculator performs basic mathematical operations in a responsive and interactive way.
+
+5. **<a class="badge-base__link LI-simple-link" href="https://github.com/RochaEverton/Roleta">Roleta</a>** A project developed to simulate a digital roulette wheel, allowing you to draw numbers in a practical and interactive way.
+
